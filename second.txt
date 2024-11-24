@@ -1,1 +1,2 @@
 Hello for git project
+studying git generously
